@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    mmerheb:
+      email: mahmoud.merheb84@gmail.com
+      name: Mahmoud Merheb
+      password: $2b$12$ftoMoaot8.40uy/l8.jJd.pH0gEYhBVz3.qJzPkVKBRbdCEc/QdwW # To be replaced with hashed password
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$UBDA8Mf2JLTqKEHUMy52AuNI9wHy41JzEIGnIKWQEHYtDyIgt.aUi # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - mahmoud.merheb84@gmail.com
+
